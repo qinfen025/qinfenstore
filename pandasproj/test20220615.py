@@ -145,18 +145,6 @@ df = pd.DataFrame([
 
 	[7, 8],
 ], columns=['a', 'b'])
-df.replace
-df.groupby
-np.true_divide()
-df.rank()
-df.sort_values
-df.nlargest()
-pd.NamedAgg
-df.transform
-pd.date_range()
-import functools
-# functools.reduce()
-
 
 
 # df.columns.difference()
