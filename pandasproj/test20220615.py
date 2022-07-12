@@ -145,6 +145,7 @@ df = pd.DataFrame([
 	[7, 8],
 ], columns=['a', 'b'])
 
+# test git commit --amend
 
 # df.columns.difference()
 # df.iloc[0:2]
