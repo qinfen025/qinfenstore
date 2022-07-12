@@ -7,7 +7,7 @@ git add
 git restore <file>          舍弃 工作区file 文件的所有改动
 git restore --staged <file> 移除暂存区的文件
 
-git reset HEAD <file>
+git reset HEAD <file>       取消暂存区文件
 
 git checkout -- <file>      舍弃 工作区file 文件的所有改动
 
