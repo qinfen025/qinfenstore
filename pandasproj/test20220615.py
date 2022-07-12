@@ -147,19 +147,6 @@ df = pd.DataFrame([
 
 # test git commit --amend
 
-# df.columns.difference()
-# df.iloc[0:2]
-#    a  b
-# 0  1  2
-# 1  3  4
-# df[0:2]
-#    a  b
-# 0  1  2
-# 1  3  4
-# df.loc[0:2]
-#    a  b
-# 0  1  2
-# 1  3  4
-# 2  5  6
+# git fetch test
 
 print(df)
